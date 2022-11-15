@@ -22,6 +22,14 @@ Creating visualizations and dashboards in tableau to derive insights from existi
 
 
 ✨[Tableau Vis: Insights into existing customers and customer segments](https://public.tableau.com/app/profile/ravi.chandrika/viz/KPMG_VIRTUAL_INTERNSHIP_DASHBOARD_EXISTING_CUSTOMERS_PROFILING/InsightIntoExistingCustomers)<br>
+
+Insights into Customer Segmentation
+![](https://github.com/RAVI-CHANDRIKA-05/KPMG_VIRTUAL_INTERNSHIP_PROGRAM/blob/main/Insight%20Into%20Customer%20Segments.png)
+
+Insights into Existing Customers
+![](https://github.com/RAVI-CHANDRIKA-05/KPMG_VIRTUAL_INTERNSHIP_PROGRAM/blob/main/Insight%20Into%20Existing%20Customers.png)
+
 ✨[Tableau Vis: Insights into new customers](https://public.tableau.com/app/profile/ravi.chandrika/viz/KPMG_VIRTUAL_INTERNSHIP_DASHBOARD_NEW_CUSTOMERS_PROFILING/InsightIntoNewCustomers)<br>
+![](https://github.com/RAVI-CHANDRIKA-05/KPMG_VIRTUAL_INTERNSHIP_PROGRAM/blob/main/Insight%20Into%20New%20Customers%20.png)
 
 ![KPMG_CERTIFICATE](https://user-images.githubusercontent.com/51845833/151953455-3edaebb4-6f58-4679-816a-a0c05b24a7dc.PNG)
